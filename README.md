@@ -16,10 +16,11 @@ This project analyzes the stock price movement of Reliance Industries from 2024 
 - Tableau
 
 ## Files
-- `Reliance_Stock_Analysis.ipynb` – Python analysis
-- `Reliance_Dashboard.pdf` – Dashboard export
-- `Reliance_Stock_Analysis.twb` – Tableau workbook
-- `reliance.csv` – Dataset
+
+- [stock_price_trend_analysis_reliance.ipynb](stock_price_trend_analysis_reliance.ipynb) – Python analysis
+- [Book1 reliance.pdf](Book1%20reliance.pdf) – Tableau dashboard
+- [Book1 reliance.twb](Book1%20reliance.twb) – Tableau workbook
+- [reliance_analysis.csv](reliance_analysis.csv) – Dataset
 
 ## Key Insights
 - The stock reached its highest level in January 2026 and its lowest level in March 2025.
